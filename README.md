@@ -3,6 +3,7 @@
 ## 🚀 About Me
 I'm a Database Administrator and Data Analyst with expertise in:
 - **SQL**
+- **PL/SQL**
 - **Database Administration**
 - **Python**
 
