@@ -1,4 +1,4 @@
-# 👋 Hi, I'm WerkuB
+# 👋 Hi, I'm Werku Birhanu
 
 ## 🚀 About Me
 I'm a Database Administrator and Data Analyst with expertise in:
@@ -9,7 +9,7 @@ I'm a Database Administrator and Data Analyst with expertise in:
 I enjoy working on data-driven projects, optimizing database performance, and creating insightful data visualizations.
 
 ## 🛠️ Skills
-- Database Management (MySQL, PostgreSQL, SQL Server)
+- Database Management (Oracle, MySQL, PostgreSQL, SQL Server)
 - Data Analysis (Python, Pandas, NumPy)
 - ETL Pipelines & Automation
 - Performance Tuning & Monitoring
@@ -35,10 +35,9 @@ I enjoy working on data-driven projects, optimizing database performance, and cr
 
 ## 📫 How to reach me
 - **GitHub:** [WerkuB](https://github.com/WerkuB)
-- **Email:** (werku.birhanu14@gmail.com)
+- **Email:** werku.birhanu14@gmail.com
 
 ## 📝 Blog / Articles
-*(Optional: Add links to any blog, articles, or publications if available)*
 
 ---
 
